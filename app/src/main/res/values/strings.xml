@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">JWTMobile</string>
+    <string name="app_name">ProjetoTeste</string>
+    <string name="quantidade">Quantidade</string>
 </resources>
